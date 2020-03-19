@@ -1,0 +1,1 @@
+This site will be a portolio of imagery I particularly enjoy looking at. Pages include the Home, Nature, Design, and Motivation. The home page will feature three images as well as entry points into the three other pages. The Nature page will feature a 9 image gallery. The Design and Motivation pages will include a collage of images. All will be responsive.
